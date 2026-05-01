@@ -1,0 +1,19 @@
+.voting-container {
+  width: 300px;
+  margin: 50px auto;
+  text-align: center;
+  border: 2px solid #333;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.candidate {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
